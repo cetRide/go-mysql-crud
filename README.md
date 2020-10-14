@@ -52,3 +52,4 @@ chmod +x run.sh
 docker-compose up
 ```
 
+https://itnext.io/beautify-your-golang-project-f795b4b453aa
